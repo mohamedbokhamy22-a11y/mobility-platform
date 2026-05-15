@@ -152,6 +152,12 @@ python3 genai/sql_assistant.py
 
 ---
 
+## Screenshot
+
+![Dashboard Screenshot](assets/screenshot.png)
+
+---
+
 ## Dashboard
 
 The Streamlit dashboard has 5 tabs:
